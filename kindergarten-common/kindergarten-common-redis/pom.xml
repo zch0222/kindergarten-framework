@@ -7,4 +7,18 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>kindergarten-common-redis</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.yxlm</groupId>
+            <artifactId>kingdergarten-common-core</artifactId>
+        </dependency>
+
+
+        <!-- SpringBoot Boot Redis -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+    </dependencies>
 </project>
