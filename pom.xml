@@ -38,7 +38,7 @@
 
             <dependency>
                 <groupId>com.yxlm</groupId>
-                <artifactId>kingdergarten-common-core</artifactId>
+                <artifactId>kindergarten-common-core</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
 

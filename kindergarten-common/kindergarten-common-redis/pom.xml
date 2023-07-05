@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>com.yxlm</groupId>
-            <artifactId>kingdergarten-common-core</artifactId>
+            <artifactId>kindergarten-common-core</artifactId>
         </dependency>
 
 

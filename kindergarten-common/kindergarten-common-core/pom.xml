@@ -7,7 +7,7 @@
         <artifactId>kindergarten-common</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>kingdergarten-common-core</artifactId>
+    <artifactId>kindergarten-common-core</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

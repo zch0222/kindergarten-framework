@@ -12,6 +12,7 @@
     <modules>
         <module>kindergarten-common-security</module>
         <module>kindergarten-common-redis</module>
+        <module>kindergarten-common-core</module>
     </modules>
 
 
