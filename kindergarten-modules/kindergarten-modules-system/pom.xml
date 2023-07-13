@@ -34,6 +34,11 @@
             <version>${mbp.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.yxlm</groupId>
+            <artifactId>kindergarten-common-security</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
